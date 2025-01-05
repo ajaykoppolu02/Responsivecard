@@ -1,0 +1,41 @@
+.Box1{
+    border:2px solid black;
+    height: 250px;
+    width: 220px;
+    margin: auto;
+}
+body{
+    display: flex;
+    text-align: center;
+    padding: 200px 300px 200px 300px;
+}
+h4{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.img1{
+    height: 70px;
+    width: 70px;
+    background-image: url("C:/Users/sinuk/Downloads/twitt-removebg-preview.png");
+    background-size: cover;
+}
+.img2{
+    height: 70px;
+    width: 70px;
+    background-image: url("C:/Users/sinuk/Downloads/download-removebg-preview.png");
+    background-size: cover;
+}
+.img3{
+    height: 70px;
+    width: 70px;
+    background-image: url("C:/Users/sinuk/Downloads/download-removebg-preview (1).png");
+    background-size: cover;
+}
+button{
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    font-family: verdana;
+    font-weight: bold;
+}
